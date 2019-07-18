@@ -15,6 +15,7 @@ public class findSumPair {
 			if(temp == val)
 				System.out.println(ary[i]+"+"+ary[j]+"="+val);
 			}
+			System.out.println("Test");
 		}
 	}
 }
